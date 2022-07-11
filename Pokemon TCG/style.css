@@ -1,0 +1,9 @@
+#list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.test {
+    flex-direction: column;
+    text-align: center;
+}
